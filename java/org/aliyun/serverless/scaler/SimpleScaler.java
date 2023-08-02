@@ -14,7 +14,6 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 import java.time.*;
-import java.util.function.Consumer;
 import java.util.logging.Logger;
 
 public class SimpleScaler implements Scaler {
